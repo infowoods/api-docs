@@ -1,4 +1,4 @@
-# Woods API Docs
+# InfoWoods Docs
 
 (Work in progress)
 
@@ -6,4 +6,4 @@
 
 ## TODO
 
-- [ ] documentation site
+- [ ] Documentation website
