@@ -2,14 +2,18 @@
 
 (Work in progress)
 
-(Welcome to contribute!)
+## API
 
 - API document on [Postman workspace](https://www.postman.com/infowoods/workspace/infowoods-public-workspace)
-- [API 简要说明](https://github.com/infowoods/docs/blob/main/api-zh.md)
 
-## OakTopic Bot Samples
-- OTBot [NASA Astronomy Picture of the Day](https://github.com/nodewee/otbot-nasa-apod)
+- Base URL: <https://api.infowoods.com/v3>
 
-## TODO
+## Mixin Bots
 
-- [ ] Documentation website
+- OwlMessenger **7000102034**
+
+- OakChannel **7000104503**
+
+## Oak Channel Bot Samples
+
+- [NASA Astronomy Picture of the Day](https://github.com/nodewee/ocb-nasa-apod)
